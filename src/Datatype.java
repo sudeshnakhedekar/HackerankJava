@@ -28,7 +28,7 @@ public class Datatype {
             }
             catch (Exception e){
 
-                System.out.println(sc.next()+ "Cannot be fitted anywhere .");
+                System.out.println(sc.next()+" can't be fitted anywhere.");
             }
         }
 sc .close();
